@@ -6,6 +6,8 @@ All demnsions are in millimeters (mm)
 
 ![alt tag](http://imgur.com/a/uopct)
 
+[Imgur](http://i.imgur.com/6yeEZZM.png)
+
 Created in 2016 under Mac OSX 10.11.5 with Diptrace version 2.4.0.2 
 
 
